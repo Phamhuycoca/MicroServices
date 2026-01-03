@@ -19,6 +19,13 @@ namespace AuthService.API.Controllers
         [HttpGet]
         public IActionResult Auth_Login()
         {
+            if (User.Identity != null)
+            {
+                if (User.Identity.IsAuthenticated)
+                {
+                    return Redirect("http://localhost:5173/");
+                }
+            }
             ViewBag.FormLogin = new FormLogin()
             {
                 title = "Đăng nhập hệ thống",
@@ -45,7 +52,11 @@ namespace AuthService.API.Controllers
                 ModelState.AddModelError("", "Sai tài khoản hoặc mật khẩu");
                 return View(model);
             }
-
+            if (await _userManager.IsLockedOutAsync(user))
+            {
+                ModelState.AddModelError("", "Tài khoản đã bị khóa, vui lòng thử lại sau");
+                return View(model);
+            }
             var result = await _signInManager.PasswordSignInAsync(
                 user,
                 model.Password,
@@ -54,20 +65,35 @@ namespace AuthService.API.Controllers
             );
             if (!result.Succeeded)
             {
-                ModelState.AddModelError("", "Sai tài khoản hoặc mật khẩu");
+                var maxAttempts = _userManager.Options.Lockout.MaxFailedAccessAttempts;
+                var failedCount = await _userManager.GetAccessFailedCountAsync(user);
+                var remain = maxAttempts - failedCount;
+
+                if (remain > 0 && remain < 5)
+                {
+                    ModelState.AddModelError("", $"Sai tài khoản hoặc mật khẩu. Bạn còn {remain} lần thử.");
+                }
+                else
+                {
+                    ModelState.AddModelError("", "Tài khoản đã bị khóa do nhập sai quá nhiều lần");
+                }
+
                 return View(model);
             }
-            if (result.IsLockedOut)
-            {
-                ModelState.AddModelError("", "Tài khoản đã bị khóa");
-                return View(model);
-            }
+
 
             return Redirect("http://localhost:5173/");
         }
         [HttpGet]
         public IActionResult Auth_ForgotPassword()
         {
+            if (User.Identity != null)
+            {
+                if (User.Identity.IsAuthenticated)
+                {
+                    return Redirect("http://localhost:5173/");
+                }
+            }
             ViewBag.FormLogin = new FormLogin()
             {
                 title = "Đăng nhập hệ thống",

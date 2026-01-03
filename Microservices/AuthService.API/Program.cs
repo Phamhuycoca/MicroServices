@@ -5,7 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddApicontrollerServices(builder.Configuration);
+builder.Services.AddApicontrollerServices(builder.Configuration,builder.Environment);
 
 var app = builder.Build();
 // Configure the HTTP request pipeline.
@@ -25,7 +25,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
-
+app.UseCors("AllowAll");
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Auth}/{action=Auth_Login}/{id?}");
