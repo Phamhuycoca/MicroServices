@@ -1,0 +1,19 @@
+# Backend
+/backend/bin/
+/backend/obj/
+/backend/.vs/
+/backend/appsettings.Development.json
+
+# Frontend
+/frontend/node_modules/
+/frontend/build/
+/frontend/dist/
+/frontend/.env
+
+# Common
+*.log
+.DS_Store
+.vscode/
+.idea/
+.vs/
+**/.vs/
