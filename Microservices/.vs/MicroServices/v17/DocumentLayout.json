@@ -85,8 +85,7 @@
               "RelativeToolTip": "AuthService.API\\ConfigureServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAACVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T06:55:19.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-03T06:55:19.416Z"
             },
             {
               "$type": "Document",
@@ -110,8 +109,7 @@
               "RelativeToolTip": "AuthService.API\\Views\\Auth\\Auth_Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAMoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-03T04:20:49.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-03T04:20:49.575Z"
             },
             {
               "$type": "Document",
@@ -121,7 +119,7 @@
               "RelativeDocumentMoniker": "AuthService.API\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "AuthService.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAswF8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv18AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-03T04:20:22.852Z",
               "EditorCaption": ""
@@ -136,8 +134,7 @@
               "RelativeToolTip": "AuthService.Infrastructure\\IdentitySeed\\IdentitySeed.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T15:54:42.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-03T15:54:42.958Z"
             },
             {
               "$type": "Document",
@@ -173,8 +170,7 @@
               "RelativeToolTip": "AuthService.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T15:55:09.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-03T15:55:09.11Z"
             },
             {
               "$type": "Document",
