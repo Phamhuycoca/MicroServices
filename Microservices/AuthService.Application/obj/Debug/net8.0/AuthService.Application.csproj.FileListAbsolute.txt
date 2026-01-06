@@ -12,3 +12,9 @@ D:\Dự án cá nhân\Microservices\AuthService.Application\obj\Debug\net8.0\ref
 D:\Dự án cá nhân\Microservices\AuthService.Application\obj\Debug\net8.0\AuthService.Application.pdb
 D:\Dự án cá nhân\Microservices\AuthService.Application\obj\Debug\net8.0\AuthService.Application.genruntimeconfig.cache
 D:\Dự án cá nhân\Microservices\AuthService.Application\obj\Debug\net8.0\ref\AuthService.Application.dll
+D:\Dự án cá nhân\Microservices\AuthService.Application\bin\Debug\net8.0\AuthService.Domain.dll
+D:\Dự án cá nhân\Microservices\AuthService.Application\bin\Debug\net8.0\AuthService.Infrastructure.dll
+D:\Dự án cá nhân\Microservices\AuthService.Application\bin\Debug\net8.0\AuthService.Domain.pdb
+D:\Dự án cá nhân\Microservices\AuthService.Application\bin\Debug\net8.0\AuthService.Infrastructure.pdb
+D:\Dự án cá nhân\Microservices\AuthService.Application\obj\Debug\net8.0\AuthService.Application.sourcelink.json
+D:\Dự án cá nhân\Microservices\AuthService.Application\obj\Debug\net8.0\AuthServ.67992DEE.Up2Date

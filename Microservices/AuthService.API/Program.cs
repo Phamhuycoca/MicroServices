@@ -21,6 +21,11 @@ using (var scope = app.Services.CreateScope())
 }
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
 
 app.UseRouting();
 

@@ -68,6 +68,9 @@ namespace AuthService.Infrastructure.Migrations
                     b.Property<string>("SecurityStamp")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<Guid?>("Session_id")
+                        .HasColumnType("uniqueidentifier");
+
                     b.Property<bool>("TwoFactorEnabled")
                         .HasColumnType("bit");
 
@@ -95,6 +98,42 @@ namespace AuthService.Infrastructure.Migrations
                         .HasFilter("[NormalizedUserName] IS NOT NULL");
 
                     b.ToTable("nguoi_dung", (string)null);
+                });
+
+            modelBuilder.Entity("AuthService.Domain.Entities.refresh_token", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("CreatedByIp")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("ExpiresAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsRevoked")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Token")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<Guid>("nguoi_dung_id")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("Token")
+                        .IsUnique();
+
+                    b.HasIndex("nguoi_dung_id");
+
+                    b.ToTable("refresh_token", (string)null);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole<System.Guid>", b =>
@@ -228,6 +267,17 @@ namespace AuthService.Infrastructure.Migrations
                     b.ToTable("nguoi_dung_token", (string)null);
                 });
 
+            modelBuilder.Entity("AuthService.Domain.Entities.refresh_token", b =>
+                {
+                    b.HasOne("AuthService.Domain.Entities.nguoi_dung", "nguoi_dung")
+                        .WithMany("refresh_Tokens")
+                        .HasForeignKey("nguoi_dung_id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("nguoi_dung");
+                });
+
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<System.Guid>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole<System.Guid>", null)
@@ -277,6 +327,11 @@ namespace AuthService.Infrastructure.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("AuthService.Domain.Entities.nguoi_dung", b =>
+                {
+                    b.Navigation("refresh_Tokens");
                 });
 #pragma warning restore 612, 618
         }

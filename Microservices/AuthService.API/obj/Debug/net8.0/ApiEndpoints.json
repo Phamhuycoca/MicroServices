@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "ContainingType": "AuthService.API.Controllers.AuthTokenController",
+    "Method": "GetTokenByCode",
+    "RelativePath": "api/auth-token/one-time-token",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

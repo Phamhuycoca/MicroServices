@@ -12,5 +12,7 @@ namespace AuthService.Domain.Entities
         public string? ho { get; set; }
         public string? ten { get; set; }
         public string? ho_ten { get; set; }
+        public Guid? Session_id { get; set; }
+        public ICollection<refresh_token> refresh_Tokens { get; set; }
     }
 }

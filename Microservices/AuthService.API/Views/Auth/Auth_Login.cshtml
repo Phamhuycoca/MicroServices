@@ -200,10 +200,16 @@
 }
 
 <script>
-        // Hợp lệ → bật loading
-        document.getElementById("loadingOverlay").style.display = "flex";
-        const btn = form.querySelector("button[type='submit']");
-        btn.disabled = true;
-        btn.innerText = "Đang xử lý...";
+    document.addEventListener("DOMContentLoaded", function () {
+        const form = document.querySelector("form");
+
+        form.addEventListener("submit", function () {
+            document.getElementById("loadingOverlay").style.display = "flex";
+            const btn = form.querySelector("button[type='submit']");
+            btn.disabled = true;
+            btn.innerText = "Đang xử lý...";
+        });
     });
 </script>
+
+

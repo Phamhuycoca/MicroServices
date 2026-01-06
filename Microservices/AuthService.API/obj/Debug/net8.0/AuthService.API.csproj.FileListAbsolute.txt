@@ -145,3 +145,17 @@ D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\tr\Microsof
 D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Dự án cá nhân\Microservices\AuthService.API\obj\Debug\net8.0\AuthService.API.sourcelink.json
+D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\AuthService.Application.dll
+D:\Dự án cá nhân\Microservices\AuthService.API\bin\Debug\net8.0\AuthService.Application.pdb

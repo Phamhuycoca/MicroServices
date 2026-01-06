@@ -1,24 +1,19 @@
-# Logs
-logs
+# Backend
+/backend/bin/
+/backend/obj/
+/backend/.vs/
+/backend/appsettings.Development.json
+
+# Frontend
+/frontend/node_modules/
+/frontend/build/
+/frontend/dist/
+/frontend/.env
+
+# Common
 *.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
-
-node_modules
-dist
-dist-ssr
-*.local
-
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
 .DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+.vscode/
+.idea/
+.vs/
+**/.vs/

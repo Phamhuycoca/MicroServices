@@ -12,3 +12,4 @@ D:\Dự án cá nhân\Microservices\AuthService.Domain\obj\Debug\net8.0\refint\A
 D:\Dự án cá nhân\Microservices\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.pdb
 D:\Dự án cá nhân\Microservices\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.genruntimeconfig.cache
 D:\Dự án cá nhân\Microservices\AuthService.Domain\obj\Debug\net8.0\ref\AuthService.Domain.dll
+D:\Dự án cá nhân\Microservices\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.sourcelink.json

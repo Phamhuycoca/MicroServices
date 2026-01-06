@@ -16,6 +16,7 @@ public class ApplicationDbContext : IdentityDbContext<nguoi_dung, IdentityRole<G
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
     {
     }
+    public DbSet<refresh_token> refresh_Tokens { get; set; }
     protected override void OnModelCreating(ModelBuilder builder)
     {
         base.OnModelCreating(builder);
@@ -23,6 +24,9 @@ public class ApplicationDbContext : IdentityDbContext<nguoi_dung, IdentityRole<G
         builder.Entity<nguoi_dung>(b =>
         {
             b.ToTable("nguoi_dung");
+            b.HasMany(x => x.refresh_Tokens)
+             .WithOne(x => x.nguoi_dung)
+             .HasForeignKey(x => x.nguoi_dung_id);
         });
 
         builder.Entity<IdentityRole<Guid>>(b =>
@@ -53,6 +57,13 @@ public class ApplicationDbContext : IdentityDbContext<nguoi_dung, IdentityRole<G
         builder.Entity<IdentityUserToken<Guid>>(b =>
         {
             b.ToTable("nguoi_dung_token");
+        });
+        builder.Entity<refresh_token>(e =>
+        {
+            e.ToTable("refresh_token");
+            e.HasKey(e => e.Id);
+            e.HasIndex(x => x.Token).IsUnique();
+            e.HasOne(x=>x.nguoi_dung).WithMany(y=>y.refresh_Tokens).HasForeignKey(x=>x.nguoi_dung_id).OnDelete(DeleteBehavior.Cascade);
         });
     }
     public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = new CancellationToken())

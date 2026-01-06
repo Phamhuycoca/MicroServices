@@ -15,3 +15,4 @@ D:\Dự án cá nhân\Microservices\AuthService.Infrastructure\obj\Debug\net8.0\
 D:\Dự án cá nhân\Microservices\AuthService.Infrastructure\bin\Debug\net8.0\AuthService.Domain.dll
 D:\Dự án cá nhân\Microservices\AuthService.Infrastructure\bin\Debug\net8.0\AuthService.Domain.pdb
 D:\Dự án cá nhân\Microservices\AuthService.Infrastructure\obj\Debug\net8.0\AuthServ.03063B79.Up2Date
+D:\Dự án cá nhân\Microservices\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.sourcelink.json

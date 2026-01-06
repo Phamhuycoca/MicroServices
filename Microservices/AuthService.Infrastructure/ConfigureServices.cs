@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AuthService.Infrastructure.IRepository;
+using AuthService.Infrastructure.Repository;
+using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using System;
@@ -7,13 +9,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AuthService.Infrastructure;
-
-public static class InfrastructureModule
+namespace AuthService.Infrastructure
 {
-    public static IServiceCollection AddInfrastructureModule(this IServiceCollection services)
+    public static class InfrastructureModule
     {
-        services.TryAddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-        return services;
+        public static IServiceCollection AddInfrastructureModule(this IServiceCollection services)
+        {
+            services.TryAddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            services.AddScoped<IRefreshTokenRepo, RefreshTokenRepo>();
+            return services;
+        }
     }
+
 }

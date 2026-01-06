@@ -1,0 +1,46 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "BACKEND",
+    "description": "BACKEND V1",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/auth-token/one-time-token": {
+      "get": {
+        "tags": [
+          "AuthToken"
+        ],
+        "parameters": [
+          {
+            "name": "code",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "Nhập token dạng: Bearer {your token here}",
+        "name": "Authorization",
+        "in": "header"
+      }
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
+}

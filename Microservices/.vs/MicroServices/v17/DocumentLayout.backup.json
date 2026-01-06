@@ -7,23 +7,82 @@
       "RelativeMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|solutionrelative:authservice.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.infrastructure\\identityseed\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:authservice.infrastructure\\identityseed\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\huypk\\AppData\\Local\\Temp\\.vsdbgsrc\\d8933d8c84a635e1c37e9eb18c6bd032217008a8799fd62d3548cc8ad96b6005\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|solutionrelative:authservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.api\\controllers\\authtokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|solutionrelative:authservice.api\\controllers\\authtokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.api\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|solutionrelative:authservice.api\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\huypk\\AppData\\Local\\Temp\\.vsdbgsrc\\1d4d72478e297c5c8c9909dc3f6177538765aa507e359bfa4ab88c4abad700c9\\Interop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47087684-45D3-4C94-A71C-675302BE2DCE}|AuthService.Application\\AuthService.Application.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47087684-45D3-4C94-A71C-675302BE2DCE}|AuthService.Application\\AuthService.Application.csproj|solutionrelative:authservice.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47087684-45D3-4C94-A71C-675302BE2DCE}|AuthService.Application\\AuthService.Application.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.application\\dto\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47087684-45D3-4C94-A71C-675302BE2DCE}|AuthService.Application\\AuthService.Application.csproj|solutionrelative:authservice.application\\dto\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.infrastructure\\identityseed\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:authservice.infrastructure\\identityseed\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.api\\views\\auth\\auth_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|solutionrelative:authservice.api\\views\\auth\\auth_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|solutionrelative:authservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|solutionrelative:authservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:authservice.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47087684-45D3-4C94-A71C-675302BE2DCE}|AuthService.Application\\AuthService.Application.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.application\\services\\servicerefreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47087684-45D3-4C94-A71C-675302BE2DCE}|AuthService.Application\\AuthService.Application.csproj|solutionrelative:authservice.application\\services\\servicerefreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47087684-45D3-4C94-A71C-675302BE2DCE}|AuthService.Application\\AuthService.Application.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.application\\dto\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47087684-45D3-4C94-A71C-675302BE2DCE}|AuthService.Application\\AuthService.Application.csproj|solutionrelative:authservice.application\\dto\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.infrastructure\\irepository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:authservice.infrastructure\\irepository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.infrastructure\\repository\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:authservice.infrastructure\\repository\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6884D9DC-AE5D-4408-8630-71DC959A33CF}|AuthService.Domain\\AuthService.Domain.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.domain\\entities\\refresh_token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6884D9DC-AE5D-4408-8630-71DC959A33CF}|AuthService.Domain\\AuthService.Domain.csproj|solutionrelative:authservice.domain\\entities\\refresh_token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.infrastructure\\repository\\refreshtokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:authservice.infrastructure\\repository\\refreshtokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.infrastructure\\irepository\\irefreshtokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:authservice.infrastructure\\irepository\\irefreshtokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.infrastructure\\appcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:authservice.infrastructure\\appcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6884D9DC-AE5D-4408-8630-71DC959A33CF}|AuthService.Domain\\AuthService.Domain.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.domain\\entities\\nguoi_dung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6884D9DC-AE5D-4408-8630-71DC959A33CF}|AuthService.Domain\\AuthService.Domain.csproj|solutionrelative:authservice.domain\\entities\\nguoi_dung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\huypk\\AppData\\Local\\Temp\\.vsdbgsrc\\1d4d72478e297c5c8c9909dc3f6177538765aa507e359bfa4ab88c4abad700c9\\Interop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,28 +97,12 @@
       "RelativeMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|solutionrelative:authservice.api\\models\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.infrastructure\\appcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:authservice.infrastructure\\appcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.infrastructure\\repository\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:authservice.infrastructure\\repository\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.infrastructure\\irepository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:authservice.infrastructure\\irepository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.api\\views\\auth\\auth_forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|solutionrelative:authservice.api\\views\\auth\\auth_forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.api\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|solutionrelative:authservice.api\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{94093FBB-0184-4DB0-B968-134EAA87D59D}|AuthService.API\\AuthService.API.csproj|solutionrelative:authservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B1A740F-AA8B-4528-80EB-08C31C9D272A}|AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\d\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\microservices\\authservice.infrastructure\\migrations\\20260103070458_init_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,42 +116,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConfigureServices.cs",
-              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\ConfigureServices.cs",
-              "RelativeDocumentMoniker": "AuthService.API\\ConfigureServices.cs",
-              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\ConfigureServices.cs",
-              "RelativeToolTip": "AuthService.API\\ConfigureServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAACVAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\huypk\\AppData\\Local\\Temp\\.vsdbgsrc\\d8933d8c84a635e1c37e9eb18c6bd032217008a8799fd62d3548cc8ad96b6005\\Task.cs",
+              "ToolTip": "C:\\Users\\huypk\\AppData\\Local\\Temp\\.vsdbgsrc\\d8933d8c84a635e1c37e9eb18c6bd032217008a8799fd62d3548cc8ad96b6005\\Task.cs [Read Only]",
+              "ViewState": "AgIAAPoFAAAAAAAAAAAiwAoGAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T06:55:19.416Z",
+              "WhenOpened": "2026-01-06T13:04:31.808Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthTokenController.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Controllers\\AuthTokenController.cs",
+              "RelativeDocumentMoniker": "AuthService.API\\Controllers\\AuthTokenController.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Controllers\\AuthTokenController.cs",
+              "RelativeToolTip": "AuthService.API\\Controllers\\AuthTokenController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA2wC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:43:55.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "FormLogin.cs",
-              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Models\\FormLogin.cs",
-              "RelativeDocumentMoniker": "AuthService.API\\Models\\FormLogin.cs",
-              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Models\\FormLogin.cs",
-              "RelativeToolTip": "AuthService.API\\Models\\FormLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T05:58:35.749Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthService.API\\appsettings.json",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\appsettings.json",
+              "RelativeToolTip": "AuthService.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-03T06:56:31.043Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "RefreshTokenDTO.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Application\\DTO\\RefreshTokenDTO.cs",
+              "RelativeDocumentMoniker": "AuthService.Application\\DTO\\RefreshTokenDTO.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Application\\DTO\\RefreshTokenDTO.cs",
+              "RelativeToolTip": "AuthService.Application\\DTO\\RefreshTokenDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAlwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:19:29.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Application\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "AuthService.Application\\ConfigureServices.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Application\\ConfigureServices.cs",
+              "RelativeToolTip": "AuthService.Application\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:27:41.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Auth_Login.cshtml",
               "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Views\\Auth\\Auth_Login.cshtml",
               "RelativeDocumentMoniker": "AuthService.API\\Views\\Auth\\Auth_Login.cshtml",
               "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Views\\Auth\\Auth_Login.cshtml",
               "RelativeToolTip": "AuthService.API\\Views\\Auth\\Auth_Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAANUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-03T04:20:49.575Z",
               "EditorCaption": ""
@@ -121,99 +201,100 @@
               "RelativeDocumentMoniker": "AuthService.API\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "AuthService.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAswF8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-03T04:20:22.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "IdentitySeed.cs",
               "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\IdentitySeed\\IdentitySeed.cs",
               "RelativeDocumentMoniker": "AuthService.Infrastructure\\IdentitySeed\\IdentitySeed.cs",
               "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\IdentitySeed\\IdentitySeed.cs",
               "RelativeToolTip": "AuthService.Infrastructure\\IdentitySeed\\IdentitySeed.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-03T15:54:42.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AuthService.API\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AuthService.API\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAD4vwoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-03T04:15:53.618Z"
+              "DocumentIndex": 3,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "AuthService.API\\ConfigureServices.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\ConfigureServices.cs",
+              "RelativeToolTip": "AuthService.API\\ConfigureServices.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwGQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T06:55:19.416Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "AuthService.API\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "AuthService.API\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-03T16:57:47.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Program.cs",
               "RelativeDocumentMoniker": "AuthService.API\\Program.cs",
               "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Program.cs",
               "RelativeToolTip": "AuthService.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T15:55:09.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-03T15:55:09.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Interop.cs",
-              "DocumentMoniker": "C:\\Users\\huypk\\AppData\\Local\\Temp\\.vsdbgsrc\\1d4d72478e297c5c8c9909dc3f6177538765aa507e359bfa4ab88c4abad700c9\\Interop.cs",
-              "ToolTip": "C:\\Users\\huypk\\AppData\\Local\\Temp\\.vsdbgsrc\\1d4d72478e297c5c8c9909dc3f6177538765aa507e359bfa4ab88c4abad700c9\\Interop.cs [Read Only]",
-              "ViewState": "AgIAAOIEAAAAAAAAAAAiwPIEAAAGAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T17:50:16.046Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\AppContext\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "AuthService.Infrastructure\\AppContext\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\AppContext\\ApplicationDbContext.cs",
-              "RelativeToolTip": "AuthService.Infrastructure\\AppContext\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T06:30:33.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "IRepo.cs",
               "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\IRepository\\IRepo.cs",
               "RelativeDocumentMoniker": "AuthService.Infrastructure\\IRepository\\IRepo.cs",
               "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\IRepository\\IRepo.cs",
               "RelativeToolTip": "AuthService.Infrastructure\\IRepository\\IRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-03T15:25:45.187Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "AuthService.Infrastructure\\ConfigureServices.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\ConfigureServices.cs",
+              "RelativeToolTip": "AuthService.Infrastructure\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:22:40.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceRefreshToken.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Application\\Services\\ServiceRefreshToken.cs",
+              "RelativeDocumentMoniker": "AuthService.Application\\Services\\ServiceRefreshToken.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Application\\Services\\ServiceRefreshToken.cs",
+              "RelativeToolTip": "AuthService.Application\\Services\\ServiceRefreshToken.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:23:48.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Application\\DTO\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "AuthService.Application\\DTO\\JwtOptions.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Application\\DTO\\JwtOptions.cs",
+              "RelativeToolTip": "AuthService.Application\\DTO\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:41:30.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Repo.cs",
               "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\Repository\\Repo.cs",
               "RelativeDocumentMoniker": "AuthService.Infrastructure\\Repository\\Repo.cs",
@@ -225,19 +306,113 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\appsettings.json",
-              "RelativeDocumentMoniker": "AuthService.API\\appsettings.json",
-              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\appsettings.json",
-              "RelativeToolTip": "AuthService.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-03T06:56:31.043Z"
+              "DocumentIndex": 16,
+              "Title": "RefreshTokenRepo.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\Repository\\RefreshTokenRepo.cs",
+              "RelativeDocumentMoniker": "AuthService.Infrastructure\\Repository\\RefreshTokenRepo.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\Repository\\RefreshTokenRepo.cs",
+              "RelativeToolTip": "AuthService.Infrastructure\\Repository\\RefreshTokenRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:20:45.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
+              "Title": "IRefreshTokenRepo.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\IRepository\\IRefreshTokenRepo.cs",
+              "RelativeDocumentMoniker": "AuthService.Infrastructure\\IRepository\\IRefreshTokenRepo.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\IRepository\\IRefreshTokenRepo.cs",
+              "RelativeToolTip": "AuthService.Infrastructure\\IRepository\\IRefreshTokenRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:20:19.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "refresh_token.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Domain\\Entities\\refresh_token.cs",
+              "RelativeDocumentMoniker": "AuthService.Domain\\Entities\\refresh_token.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Domain\\Entities\\refresh_token.cs",
+              "RelativeToolTip": "AuthService.Domain\\Entities\\refresh_token.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wDUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:53:34.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "nguoi_dung.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Domain\\Entities\\nguoi_dung.cs",
+              "RelativeDocumentMoniker": "AuthService.Domain\\Entities\\nguoi_dung.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Domain\\Entities\\nguoi_dung.cs",
+              "RelativeToolTip": "AuthService.Domain\\Entities\\nguoi_dung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:49:24.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthService.API\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthService.API\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vwoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T04:15:53.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\AppContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AuthService.Infrastructure\\AppContext\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\AppContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AuthService.Infrastructure\\AppContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwDsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T06:30:33.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Models\\FormLogin.cs",
+              "RelativeDocumentMoniker": "AuthService.API\\Models\\FormLogin.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Models\\FormLogin.cs",
+              "RelativeToolTip": "AuthService.API\\Models\\FormLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T05:58:35.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "AuthService.API\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "AuthService.API\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T16:57:47.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Interop.cs",
+              "DocumentMoniker": "C:\\Users\\huypk\\AppData\\Local\\Temp\\.vsdbgsrc\\1d4d72478e297c5c8c9909dc3f6177538765aa507e359bfa4ab88c4abad700c9\\Interop.cs",
+              "ToolTip": "C:\\Users\\huypk\\AppData\\Local\\Temp\\.vsdbgsrc\\1d4d72478e297c5c8c9909dc3f6177538765aa507e359bfa4ab88c4abad700c9\\Interop.cs",
+              "ViewState": "AgIAAOIEAAAAAAAAAAAiwPIEAAAGAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:50:16.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "Auth_ForgotPassword.cshtml",
               "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Views\\Auth\\Auth_ForgotPassword.cshtml",
               "RelativeDocumentMoniker": "AuthService.API\\Views\\Auth\\Auth_ForgotPassword.cshtml",
@@ -249,19 +424,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "20260103070458_init_database.cs",
               "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\Migrations\\20260103070458_init_database.cs",
               "RelativeDocumentMoniker": "AuthService.Infrastructure\\Migrations\\20260103070458_init_database.cs",
               "ToolTip": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.Infrastructure\\Migrations\\20260103070458_init_database.cs",
               "RelativeToolTip": "AuthService.Infrastructure\\Migrations\\20260103070458_init_database.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-03T07:04:58.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "D:\\D\u1EF1 \u00E1n c\u00E1 nh\u00E2n\\Microservices\\AuthService.API\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "AuthService.API\\Models\\LoginViewModel.cs",

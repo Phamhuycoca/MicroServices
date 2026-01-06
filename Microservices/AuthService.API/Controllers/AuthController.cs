@@ -1,7 +1,10 @@
 ﻿using AuthService.API.Models;
+using AuthService.Application.DTO;
+using AuthService.Application.IServices;
 using AuthService.Domain.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace AuthService.API.Controllers
 {
@@ -9,23 +12,30 @@ namespace AuthService.API.Controllers
     {
         private readonly SignInManager<nguoi_dung> _signInManager;
         private readonly UserManager<nguoi_dung> _userManager;
+        private readonly IMemoryCache _cache;
+        private readonly IServiceRefreshToken _serviceRefreshToken;
         public AuthController(
            SignInManager<nguoi_dung> signInManager,
-           UserManager<nguoi_dung> userManager)
+           UserManager<nguoi_dung> userManager,
+           IMemoryCache cache,
+           IServiceRefreshToken serviceRefreshToken
+           )
         {
             _signInManager = signInManager;
             _userManager = userManager;
+            _cache = cache;
+            _serviceRefreshToken = serviceRefreshToken;
         }
         [HttpGet]
         public IActionResult Auth_Login()
         {
-            if (User.Identity != null)
+            /*if (User.Identity != null)
             {
                 if (User.Identity.IsAuthenticated)
                 {
                     return Redirect("http://localhost:5173/");
                 }
-            }
+            }*/
             ViewBag.FormLogin = new FormLogin()
             {
                 title = "Đăng nhập hệ thống",
@@ -80,10 +90,23 @@ namespace AuthService.API.Controllers
 
                 return View(model);
             }
+            var ip = HttpContext.Connection.RemoteIpAddress?.ToString();
+            var token = await _serviceRefreshToken.GenerateTokensAsync(user, ip);
 
+            var oneTimeCode = Guid.NewGuid().ToString("N");
 
-            return Redirect("http://localhost:5173/");
+            // 🔥 KHÔNG await
+            _cache.Set(
+                oneTimeCode,
+                token,
+                new MemoryCacheEntryOptions
+                {
+                    AbsoluteExpirationRelativeToNow = TimeSpan.FromSeconds(30)
+                }
+            );
+            return Redirect($"http://localhost:5173/login-success?code={oneTimeCode}");
         }
+       
         [HttpGet]
         public IActionResult Auth_ForgotPassword()
         {
